@@ -1,0 +1,12 @@
+{
+  "name": "parallax-effect-html-css",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive HTML and CSS perspective parallax scrolling demo.",
+  "homepage": "https://a2rp.github.io/parallax_effect_html_css/",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx --yes http-server . -p 5031",
+    "deploy": "node deploy.js"
+  }
+}
